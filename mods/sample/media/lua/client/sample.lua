@@ -1,1 +1,1 @@
-print("Hello PZ Modding!")
+print("Hello PZ Modding! (client)")
