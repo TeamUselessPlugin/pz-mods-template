@@ -1,7 +1,9 @@
 # ZomboidMod
 
-[![release](https://img.shields.io/github/v/release/cocolabs/pz-zmod)](https://github.
-com/cocolabs/pz-zmod/releases/latest) ![Game Version](https://img.shields.io/badge/PZ%20Version-IWBUMS%3A%2041.47-red) [![License](https://img.shields.io/github/license/yooksi/pz-zmod)](https://mit-license.org/) [![chat](https://img.shields.io/discord/717757483376050203?color=7289DA&label=discord&logo=discord&logoColor=white)](https://discord.gg/vCeydWCbd9)
+[![release](https://img.shields.io/github/v/release/cocolabs/pz-zmod)](https://github.com/cocolabs/pz-zmod/releases/latest)
+![Game Version](https://img.shields.io/badge/PZ%20Version-41.47.16-red)
+[![License](https://img.shields.io/github/license/yooksi/pz-zmod)](https://mit-license.org/)
+[![chat](https://img.shields.io/discord/717757483376050203?color=7289DA&label=discord&logo=discord&logoColor=white)](https://discord.gg/vCeydWCbd9)
 
 Short description of what this mod is all about.
 
@@ -38,7 +40,7 @@ Give proper credits to those that helped make this project.
 
 ## License
 
-MIT © [Yourname](https://github.com/cocolabs)
+MIT © [Team. UselessPlugin](https://github.com/TeamUselessPlugin)
 
 > **TODO**: remember to update copyright text to apply the license to your project.
 > Read more information on how to do this [here](https://github.com/cocolabs/pz-zmod#license).
