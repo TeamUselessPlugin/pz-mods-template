@@ -1,0 +1,23 @@
+Gemfile
+local.properties
+version.properties
+
+PZ Debug Local.lnk
+PZ Local.lnk
+
+# Gradle files
+.gradle/*
+
+# Idea files
+.idea/*
+
+# Log files
+logs/*
+
+# Copyright files to ignore
+build/*
+lib/*
+
+# Ignore mods folder without sample mod
+mods/*
+!mods/sample
