@@ -6,17 +6,17 @@ PZ Debug Local.lnk
 PZ Local.lnk
 
 # Gradle files
-.gradle/*
+.gradle/
 
 # Idea files
-.idea/*
+.idea/
 
 # Log files
-logs/*
+logs/
 
 # Copyright files to ignore
-build/*
-lib/*
+build/
+lib/
 
 # Ignore mods folder without sample mod
 mods/*
